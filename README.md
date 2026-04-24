@@ -201,3 +201,4 @@ Open source - modify and use as needed
 ## Support
 
 For issues or improvements, refer to the logging output and stack traces provided by the application.
+
